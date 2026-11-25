@@ -9,6 +9,12 @@ I build production web apps end to end: polished, fast UIs in React/Next.js and 
 
 ### 🚀 Featured projects
 
+<table><tr>
+<td width="33%" align="center"><a href="https://github.com/AkhilSingh2/laa-pi"><img src="https://raw.githubusercontent.com/AkhilSingh2/laa-pi/main/docs/screenshots/home.webp" alt="laa-pi dashboard"></a><br><sub><b>laa-pi</b> · AI job-search copilot</sub></td>
+<td width="33%" align="center"><a href="https://github.com/AkhilSingh2/onlinechalisa.com"><img src="https://raw.githubusercontent.com/AkhilSingh2/onlinechalisa.com/main/docs/screenshots/reader.webp" alt="Online Chalisa reader"></a><br><sub><b>onlinechalisa.com</b> · multilingual reader</sub></td>
+<td width="33%" align="center"><a href="https://github.com/AkhilSingh2/mymirrowebsite"><img src="https://raw.githubusercontent.com/AkhilSingh2/mymirrowebsite/master/docs/screenshots/home.webp" alt="MyMirro styling app"></a><br><sub><b>MyMirro</b> · AI styling app</sub></td>
+</tr></table>
+
 | Project | What it is | Stack |
 |---|---|---|
 | **[laa-pi](https://github.com/AkhilSingh2/laa-pi)** | Local-first AI job-search copilot: discovers jobs from Greenhouse/Lever/Ashby/LinkedIn/Naukri, scores fit with an LLM, builds a tailored 1-page resume PDF that is checked against your profile so it can't invent anything, and fills applications with a human in the loop | Python 3.12, Streamlit, SQLite, Playwright, Claude API, APScheduler, Docker |
